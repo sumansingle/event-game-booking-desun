@@ -1,0 +1,32 @@
+.form-group {
+    margin-bottom: 1rem;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  .container{
+    border: 1px solid black;
+    margin: 10px;
+    padding: 20px;
+  }
+  input {
+    width: 50%;
+    padding: 0.5rem;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    font-size: 1rem;
+    margin-top: 0.5rem;
+  }
+  
+  button {
+    margin-top: 1rem;
+    border-radius: 5px;
+    background-color: aquamarine;
+  }
+  
+  .forgot-password {
+    cursor: pointer;
+    color: blue;
+  }
+  
